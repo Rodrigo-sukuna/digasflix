@@ -1,0 +1,38 @@
+body {
+    color: red;
+    background: black;
+    margin-left: 0px;
+    
+}
+header {
+    border-bottom: solid 2px orangered;
+    padding: 20px;
+    font-size: 35px;
+    color: orangered;
+}
+section {
+    background: rgb(211,27,32);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.titulo {
+    padding: 8px;
+}
+
+h1 {
+    font-family: "Creepster", system-ui;
+}
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    color: white;
+}
+
+img {
+    height: 400px;
+}
